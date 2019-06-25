@@ -1,0 +1,3 @@
+export const ADD_TODO = 'ADD_TODO';
+export const MARK_TODO_AS_COMPLETE = 'MARK_TODO_AS_COMPLETE'
+export const DELETE_TODO = 'DELETE_TODO';
